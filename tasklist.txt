@@ -1,0 +1,86 @@
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0          8 K
+System                           4 Services                   0        136 K
+Registry                        72 Services                   0     25,572 K
+smss.exe                       316 Services                   0          N/A
+csrss.exe                      436 Services                   0      1,640 K
+wininit.exe                    504 Services                   0        128 K
+csrss.exe                      512 Console                    1      2,144 K
+winlogon.exe                   572 Console                    1      1,936 K
+services.exe                   596 Services                   0      4,392 K
+lsass.exe                      604 Services                   0      8,916 K
+fontdrvhost.exe                724 Console                    1        808 K
+fontdrvhost.exe                732 Services                   0          N/A
+svchost.exe                    740 Services                   0     13,992 K
+svchost.exe                    820 Services                   0      9,112 K
+dwm.exe                        920 Console                    1     37,816 K
+svchost.exe                   1008 Services                   0     12,032 K
+svchost.exe                   1016 Services                   0     33,180 K
+svchost.exe                    392 Services                   0     11,112 K
+svchost.exe                    388 Services                   0      8,804 K
+svchost.exe                   1072 Services                   0     13,092 K
+svchost.exe                   1184 Services                   0     10,008 K
+VBoxService.exe               1308 Services                   0      2,848 K
+Memory Compression            1396 Services                   0     43,616 K
+svchost.exe                   1500 Services                   0      1,504 K
+svchost.exe                   1624 Services                   0      6,500 K
+svchost.exe                   1684 Services                   0      2,920 K
+svchost.exe                   1692 Services                   0      1,740 K
+svchost.exe                   1752 Services                   0     10,268 K
+spoolsv.exe                   1864 Services                   0      1,440 K
+svchost.exe                   1904 Services                   0      5,348 K
+svchost.exe                   1512 Services                   0     11,708 K
+MsMpEng.exe                   2100 Services                   0     81,412 K
+svchost.exe                   2212 Services                   0      2,132 K
+SearchIndexer.exe             2328 Services                   0     12,752 K
+sihost.exe                    2660 Console                    1     14,080 K
+svchost.exe                   2680 Console                    1     23,416 K
+taskhostw.exe                 2772 Console                    1      7,740 K
+svchost.exe                   3068 Services                   0      3,312 K
+explorer.exe                  2200 Console                    1     87,644 K
+ctfmon.exe                    3144 Console                    1      9,444 K
+svchost.exe                   3304 Console                    1     11,468 K
+StartMenuExperienceHost.e     3668 Console                    1     16,244 K
+RuntimeBroker.exe             3820 Console                    1      5,032 K
+SearchApp.exe                 4092 Console                    1     45,424 K
+RuntimeBroker.exe             3760 Console                    1     14,928 K
+svchost.exe                   4432 Services                   0      6,796 K
+TextInputHost.exe             4892 Console                    1      8,156 K
+SecurityHealthSystray.exe     4616 Console                    1      1,240 K
+SecurityHealthService.exe     2912 Services                   0      3,112 K
+VBoxTray.exe                   768 Console                    1      1,936 K
+OneDrive.exe                  4872 Console                    1      9,376 K
+dllhost.exe                   4880 Console                    1      6,564 K
+RuntimeBroker.exe             3792 Console                    1      9,312 K
+svchost.exe                   5280 Services                   0      1,180 K
+SgrmBroker.exe                5400 Services                   0      4,116 K
+svchost.exe                   5504 Services                   0      2,592 K
+ShellExperienceHost.exe       5228 Console                    1     25,376 K
+RuntimeBroker.exe             3768 Console                    1     13,044 K
+svchost.exe                   3272 Services                   0      3,484 K
+Microsoft.Photos.exe          6024 Console                    1         16 K
+RuntimeBroker.exe             1560 Console                    1      3,672 K
+msedge.exe                    3100 Console                    1     51,896 K
+msedge.exe                    6012 Console                    1      1,924 K
+msedge.exe                    4924 Console                    1     17,564 K
+msedge.exe                    5640 Console                    1      5,616 K
+msedge.exe                    6120 Console                    1      4,228 K
+msedge.exe                    4252 Console                    1      5,664 K
+msedge.exe                    4020 Console                    1      9,884 K
+SearchApp.exe                 4812 Console                    1      1,008 K
+msedgewebview2.exe            5472 Console                    1      1,884 K
+msedgewebview2.exe            1028 Console                    1        444 K
+msedgewebview2.exe            5712 Console                    1      1,572 K
+msedgewebview2.exe            3500 Console                    1      3,200 K
+msedgewebview2.exe            6128 Console                    1        560 K
+msedgewebview2.exe            1888 Console                    1         12 K
+svchost.exe                   1516 Console                    1      4,560 K
+SystemSettingsBroker.exe       580 Console                    1      2,692 K
+cmd.exe                        928 Console                    1      4,396 K
+conhost.exe                   6268 Console                    1     21,200 K
+VSSVC.exe                     3504 Services                   0      9,508 K
+svchost.exe                   4552 Services                   0      8,788 K
+tasklist.exe                  2824 Console                    1      9,052 K
+WmiPrvSE.exe                  6940 Services                   0      9,408 K
